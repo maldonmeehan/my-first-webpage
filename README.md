@@ -12,7 +12,7 @@ The orginal lesson can be found here:
 https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/html-block-elements
 
 ## Setup/Installation Requirements
-
+* The site can be viewed here: http://maldonmeehan.github.io/my-first-webpage/
 * Clone the Git repository (it is password protected)
 * Open my-first-webpage.html in a Web browser of your choice
 * Read the text and view the photos
