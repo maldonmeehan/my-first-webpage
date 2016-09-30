@@ -1,12 +1,15 @@
 # Our First Webpage
 
-#### An exercise for Epicodus to learn basic HTML, May 24, 2016
+#### An exercise for Epicodus to learn basic HTML and Block Elements, May 24, 2016
 
 #### By **_Maldon Meehan and Noah Yasskin_**
 
 ## Description
 
-This website says "Hello, world" in several languages, lists some of our favorite things, including Buddy the Dog, and lists some of our favorite things. It is not live on the Web.
+My first webpage. It lists some of our favorite things, including Buddy the Dog, and lists some of our favorite things. It is not live on the Web.
+
+The orginal lesson can be found here:
+https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/html-block-elements
 
 ## Setup/Installation Requirements
 
@@ -17,7 +20,7 @@ This website says "Hello, world" in several languages, lists some of our favorit
 
 ## Known Bugs
 
-_Currently no known bugs_
+Currently no known bugs
 
 ## Support and contact details
 
@@ -31,4 +34,4 @@ The languages and tools we used to create this app are HTML block and inline ele
 
 This software is licensed under the MIT license
 
-Copyright (c) 2015 **_Maldon Meehan and Noah Yasskin (Epicodus students)_**
+Copyright (c) 2015 **Maldon Meehan and Noah Yasskin (Epicodus students)**
