@@ -24,7 +24,7 @@ Currently no known bugs
 
 ## Support and contact details
 
-If you run into any issues or have questions, ideas or concerns, please contact Maldon at maldonmeehan@gmail.com or Noah at noahyasskin@gmail.com. We welcome any contributions you would like to make to the code or content.
+If you run into any issues or have questions, ideas or concerns, please contact Maldon or Noah on github. We welcome any contributions you would like to make to the code or content.
 
 ## Technologies Used
 
